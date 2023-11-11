@@ -13,7 +13,7 @@ hide_st_style = """
 footer {visibility: hidden;}
 header {visibility: hidden;}
 </style>
-            """
+"""
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 st.write('# PillowPulse')
