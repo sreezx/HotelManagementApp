@@ -27,6 +27,7 @@ st.divider()
 
 where = st.selectbox(
     "Destination ",
+    ("Monaco", "Maldives"),
     help="Enter the name of the place you are headed .",
 )
 
