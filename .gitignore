@@ -1,0 +1,9 @@
+# all pycache folders
+**/__pycache__/
+
+# venv ,activate.bat, temp-data dirs
+venv/
+activate.ps1
+temp/
+
+
